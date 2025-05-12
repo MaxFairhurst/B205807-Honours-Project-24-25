@@ -1,0 +1,220 @@
+Species,Accession,Length,Database,PWWP_length,UDR_length,DNA_sequence,Metadata
+Agelaius phoeniceus,XP_054508948,931,NCBI,NA,57,Y,archosauria
+Ahaetulla prasina,XP_058020675,919,NCBI,NA,67,Y,squamata
+Alaudala cheleensis,NXQ33333,881,NCBI,NA,59,N,archosauria
+Albula goreensis,KAI1897687,952,NCBI,NA,57,N,bony fish
+Alligator sinensis,XP_006032431,912,NCBI,NA,67,Y,archosauria
+Amazona aestiva,KQK80805,910,NCBI,NA,56,N,archosauria
+Amblyraja radiata,XP_032877342,1044,NCBI,NA,118,Y,cartilaginous fish
+Ambystoma mexicanum,XP_069461657,942,NCBI,NA,56,Y,amphibian
+Amia calva,XP_066563023,980,NCBI,NA,81,Y,bony fish
+Anolis carolinensis,XP_062825001,941,NCBI,NA,67,Y,squamata
+Anolis sagrei,XP_067326992,942,NCBI,NA,67,Y,squamata
+Anser cygnoides,XP_047909375,1192,NCBI,NA,56,Y,archosauria
+Aphelocoma coerulescens,XP_068868039,931,NCBI,NA,56,Y,archosauria
+Apteryx mantelli,XP_067150606,935,NCBI,NA,56,Y,archosauria
+Apus apus,XP_051471631,933,NCBI,NA,56,Y,archosauria
+Aquila chrysaetos chrysaetos,XP_040984696,1302,NCBI,NA,56,Y,archosauria
+Artibeus jamaicensis,XP_037002654,909,NCBI,NA,55,Y,mammal
+Balaenoptera acutorostrata,XP_007191323,910,NCBI,NA,55,Y,mammal
+Balaenoptera musculus,XP_036728812,910,NCBI,NA,55,Y,mammal
+Balaenoptera ricei,XP_059749457,910,NCBI,NA,55,Y,mammal
+Bombina bombina,XP_053565439,938,NCBI,NA,56,Y,amphibian
+Bos taurus,NP_001193431,909,NCBI,NA,55,Y,mammal
+Bubalus kerabau,XP_055396733,909,NCBI,NA,55,Y,mammal
+Bucorvus abyssinicus,NWR54914,904,NCBI,NA,58,N,archosauria
+Bufo bufo,XP_040282951,934,NCBI,NA,56,Y,amphibian
+Bufo gargarizans,XP_044144800,930,NCBI,NA,56,Y,amphibian
+Bufotes viridis,CAK8641749,929,NCBI,NA,56,N,amphibian
+Caloenas nicobarica,XP_065488470,934,NCBI,NA,56,Y,archosauria
+Camelus bactrianus,XP_010946863,912,NCBI,NA,55,Y,mammal
+Candoia aspera,XP_063156125,935,NCBI,NA,67,Y,squamata
+Canis lupus dingo,XP_025310261,909,NCBI,NA,55,Y,mammal
+Carcharodon carcharias,XP_041044666,1045,NCBI,NA,119,Y,cartilaginous fish
+Caretta caretta,CAM2112486,935,NCBI,NA,56,N,turtle
+Castor canadensis,XP_020018226,909,NCBI,NA,55,Y,mammal
+Catharus ustulatus,XP_032911061,1129,NCBI,NA,56,Y,archosauria
+Ceratotherium simum simum,XP_014637424,914,NCBI,NA,55,Y,mammal
+Cervus canadensis,XP_043325113,957,NCBI,NA,55,Y,mammal
+Chelonia mydas,XP_037749604,952,NCBI,NA,67,Y,turtle
+Chiloscyllium plagiosum,XP_043532005,1045,NCBI,NA,119,Y,cartilaginous fish
+Chinchilla lanigera,XP_005400458,909,NCBI,NA,55,Y,mammal
+Choloepus didactylus,XP_037668553,909,NCBI,NA,55,Y,mammal
+Chroicocephalus maculipennis,NWT45407,896,NCBI,NA,64,N,archosauria
+Chrysemys picta bellii,XP_065443416,952,NCBI,NA,68,Y,turtle
+Cinclus cinclus,XP_062344327,931,NCBI,NA,56,Y,archosauria
+Columba livia,XP_064911481,934,NCBI,NA,56,Y,archosauria
+Condylura cristata,XP_012582970,918,NCBI,NA,55,Y,mammal
+Copsychus sechellarum,NXD45647,886,NCBI,NA,56,N,archosauria
+Corapipo altera,XP_027524984,928,NCBI,NA,56,Y,archosauria
+Corvus kubaryi,XP_041885418,980,NCBI,NA,56,Y,archosauria
+Coturnix japonica,XP_015715287,1111,NCBI,NA,56,Y,archosauria
+Crotalus adamanteus,KAK9412286,1005,NCBI,NA,67,N,squamata
+Crotalus tigris,XP_039202002,918,NCBI,NA,67,Y,squamata
+Cygnus olor,XP_040408114,962,NCBI,NA,56,Y,archosauria
+Cynocephalus volans,XP_062933683,909,NCBI,NA,55,Y,mammal
+Cyrtonyx montezumae,XP_065586621,936,NCBI,NA,56,Y,archosauria
+Danio rerio,XP_005160915,1010,NCBI,NA,184,Y,bony fish
+Delphinapterus leucas,XP_022430005,910,NCBI,NA,55,Y,mammal
+Dendropsophus ebraccatus,XP_069829337,929,NCBI,NA,56,Y,amphibian
+Dermochelys coriacea,XP_043365894,1002,NCBI,NA,117,Y,turtle
+Desmodus rotundus,XP_024408296,939,NCBI,NA,55,Y,mammal
+Dromaius novaehollandiae,XP_064364249,935,NCBI,NA,56,Y,archosauria
+Dryobates pubescens,XP_054035775,968,NCBI,NA,55,Y,archosauria
+Elephas maximus indicus,XP_049758512,909,NCBI,NA,55,Y,mammal
+Eleutherodactylus coqui,XP_066450491,934,NCBI,NA,56,Y,amphibian
+Elgaria multicarinata webbii,XP_062979750,938,NCBI,NA,67,Y,squamata
+Emydura macquarii macquarii,XP_067406583,948,NCBI,NA,67,Y,turtle
+Enhydra lutris kenyoni,XP_022369110,909,NCBI,NA,55,Y,mammal
+Eptesicus fuscus,XP_054584249,752,NCBI,NA,49,Y,mammal
+Equus caballus,XP_005600227,909,NCBI,NA,55,Y,mammal
+Equus quagga,XP_046516927,914,NCBI,NA,55,Y,mammal
+Erinaceus europaeus,XP_060042661,933,NCBI,NA,55,Y,mammal
+Erpetoichthys calabaricus,XP_051780532,964,NCBI,NA,56,Y,bony fish
+Erythrolamprus reginae,XP_070591045,939,NCBI,NA,87,Y,squamata
+Eublepharis macularius,XP_054845157,918,NCBI,NA,67,Y,squamata
+Eudyptes sclateri,KAF1513966,906,NCBI,NA,56,N,archosauria
+Falco peregrinus,XP_055666425,876,NCBI,NA,56,Y,archosauria
+Felis catus,XP_023107798,909,NCBI,NA,55,Y,mammal
+Gallus gallus,XP_040553157,991,NCBI,NA,56,Y,archosauria
+Gekko japonicus,XP_015270623,918,NCBI,NA,67,Y,squamata
+Geotrypetes seraphini,XP_033791348,944,NCBI,NA,56,Y,amphibian
+Gopherus evgoodei,XP_030410908,951,NCBI,NA,67,Y,turtle
+Gopherus flavomarginatus,XP_050804716,951,NCBI,NA,67,Y,turtle
+Gorilla gorilla gorilla,XP_030863780,909,NCBI,NA,55,Y,mammal
+Grantiella picta,NWV41517,888,NCBI,NA,59,N,archosauria
+Grus americana,XP_054675989,934,NCBI,NA,56,Y,archosauria
+Haliaeetus leucocephalus,XP_010564186,934,NCBI,NA,56,Y,archosauria
+Hemicordylus capensis,XP_053106281,912,NCBI,NA,67,Y,squamata
+Hemiscyllium ocellatum,XP_060710124,1045,NCBI,NA,119,Y,cartilaginous fish
+Heptranchias perlo,XP_067840480,1081,NCBI,NA,119,Y,cartilaginous fish
+Heterocephalus glaber,XP_004839169,909,NCBI,NA,55,Y,mammal
+Heterodontus francisci,XP_067879915,1045,NCBI,NA,119,Y,cartilaginous fish
+Heteronotia binoei,XP_060106882,918,NCBI,NA,67,Y,squamata
+Hippopotamus amphibius kiboko,XP_057596791,909,NCBI,NA,55,Y,mammal
+Homo sapiens,Q9Y6K1,912,NCBI,NA,55,Y,mammal
+Hyaena hyaena,XP_039094208,909,NCBI,NA,55,Y,mammal
+Hyla sarda,XP_056407866,935,NCBI,NA,56,Y,amphibian
+Hypanus sabinus,XP_059837700,1036,NCBI,NA,119,Y,cartilaginous fish
+Hyperolius riggenbachi,XP_068135987,937,NCBI,NA,57,Y,amphibian
+Hypselotriton orientalis,UAT11596,940,NCBI,NA,56,Y,amphibian
+Indicator maculatus,NXN06396,923,NCBI,NA,66,N,archosauria
+Jaculus jaculus,XP_045005718,910,NCBI,NA,55,Y,mammal
+Lacerta agilis,XP_033001141,940,NCBI,NA,68,Y,squamata
+Lagenorhynchus albirostris,XP_060026011,913,NCBI,NA,55,Y,mammal
+Lampetra fluviatilis,CAL5909409,1718,NCBI,NA,271,N,jawless fish
+Lampetra planeri,CAL5920502,1351,NCBI,NA,139,N,jawless fish
+Lepisosteus oculatus,XP_015204058,953,NCBI,NA,57,Y,bony fish
+Lepus europaeus,XP_062065059,909,NCBI,NA,55,Y,mammal
+Lethenteron reissneri,XP_061416605,1220,NCBI,NA,75,Y,jawless fish
+Leucoraja erinaceus,XP_055491415,1044,NCBI,NA,118,Y,cartilaginous fish
+Loxia curvirostra,NWZ01993,885,NCBI,NA,54,N,archosauria
+Loxodonta africana,XP_023406265,909,NCBI,NA,55,Y,mammal
+Malaclemys terrapin pileata,XP_053877746,950,NCBI,NA,67,Y,turtle
+Manis pentadactyla,KAI5244417,998,NCBI,NA,55,N,mammal
+Mauremys mutica,XP_044865502,951,NCBI,NA,67,Y,turtle
+Mauremys reevesii,XP_039384460,951,NCBI,NA,67,Y,turtle
+Meles meles,XP_045834824,909,NCBI,NA,55,Y,mammal
+Melospiza melodia melodia,XP_063009349,932,NCBI,NA,57,Y,archosauria
+Mesoplodon densirostris,XP_059973969,910,NCBI,NA,55,Y,mammal
+Microcaecilia unicolor,XP_030054493,945,NCBI,NA,56,Y,amphibian
+Mimus melanotis,KAL2308110,941,NCBI,NA,85,N,archosauria
+Mobula hypostoma,XP_062892269,1037,NCBI,NA,119,Y,cartilaginous fish
+Molossus molossus,XP_036118208,909,NCBI,NA,55,Y,mammal
+Molothrus ater,XP_036261038,932,NCBI,NA,57,Y,archosauria
+Moschus berezovskii,XP_055257228,909,NCBI,NA,55,Y,mammal
+Muntiacus reevesi,XP_065784759,1070,NCBI,NA,55,Y,mammal
+Mus musculus,NP_001258682,908,NCBI,NA,55,Y,mammal
+Mustela erminea,XP_032209019,909,NCBI,NA,55,Y,mammal
+Mustela putorius furo,XP_004745995,909,NCBI,NA,55,Y,mammal
+Myiozetetes cayanensis,XP_050186806,928,NCBI,NA,56,Y,archosauria
+Myotis brandtii,EPQ13123,942,NCBI,NA,95,N,mammal
+Myotis davidii,ELK27408,1045,NCBI,NA,57,N,mammal
+Myotis myotis,XP_036191063,921,NCBI,NA,55,Y,mammal
+Myxine glutinosa,XP_067964224,1101,NCBI,NA,113,Y,jawless fish
+Narcine bancroftii,XP_069742614,1041,NCBI,NA,119,Y,cartilaginous fish
+Neofelis nebulosa,XP_058538695,909,NCBI,NA,55,Y,mammal
+Neogale vison,XP_044117894,909,NCBI,NA,55,Y,mammal
+Neophocaena asiaeorientalis asiaeorientalis,XP_024620182,910,NCBI,NA,55,Y,mammal
+Neopsephotus bourkii,XP_061206214,947,NCBI,NA,56,Y,archosauria
+Nomascus leucogenys,XP_030655280,909,NCBI,NA,55,Y,mammal
+Notamacropus eugenii,BDG51796,912,NCBI,NA,56,Y,mammal
+Notechis scutatus,XP_026527344,918,NCBI,NA,66,Y,squamata
+Nycticebus coucang,XP_053445435,909,NCBI,NA,55,Y,mammal
+Odobenus rosmarus divergens,XP_004394968,909,NCBI,NA,55,Y,mammal
+Ophiophagus hannah,ETE69472,922,NCBI,NA,56,N,squamata
+Orcinus orca,XP_012387866,910,NCBI,NA,55,Y,mammal
+Ornithorhynchus anatinus,XP_028927596,954,NCBI,NA,96,Y,mammal
+Orycteropus afer afer,XP_007937474,908,NCBI,NA,55,Y,mammal
+Oryctolagus cuniculus,XP_051696793,909,NCBI,NA,55,Y,mammal
+Ovis aries,KAG5211279,1164,NCBI,NA,55,N,mammal
+Oxyura jamaicensis,XP_035177378,1010,NCBI,NA,56,Y,archosauria
+Pan troglodytes,XP_016803650,909,NCBI,NA,55,Y,mammal
+Pandion haliaetus,NXS71340,906,NCBI,NA,56,N,archosauria
+Pantherophis guttatus,XP_034277055,919,NCBI,NA,67,Y,squamata
+Parus major,XP_015471322,929,NCBI,NA,56,Y,archosauria
+Passer domesticus,XP_064267504,931,NCBI,NA,56,Y,archosauria
+Patagioenas fasciata,XP_065689766,963,NCBI,NA,56,Y,archosauria
+Pelobates fuscus,XP_063297956,940,NCBI,NA,56,Y,amphibian
+Petromyzon marinus,XP_032810496,905,NCBI,NA,38,Y,jawless fish
+Pezoporus occidentalis,XP_062478652,1058,NCBI,NA,56,Y,archosauria
+Pezoporus wallicus,XP_057252789,933,NCBI,NA,56,Y,archosauria
+Phaenicophaeus curvirostris,XP_069706731,935,NCBI,NA,56,Y,archosauria
+Phalacrocorax carbo,XP_064304488,934,NCBI,NA,56,Y,archosauria
+Phasianus colchicus,XP_031451859,1203,NCBI,NA,56,Y,archosauria
+Phoca vitulina,XP_032247340,909,NCBI,NA,55,Y,mammal
+Phyllostomus discolor,KAF6103050,908,NCBI,NA,55,N,mammal
+Phyllostomus hastatus,XP_045700565,908,NCBI,NA,55,Y,mammal
+Pipistrellus kuhlii,KAF6328678,918,NCBI,NA,55,N,mammal
+Pleurodeles waltl,XP_069089738,940,NCBI,NA,56,Y,amphibian
+Podarcis lilfordi,CAI5771586,1023,NCBI,NA,68,N,squamata
+Podarcis muralis,XP_028581149,993,NCBI,NA,68,Y,squamata
+Podarcis raffonei,XP_053239828,941,NCBI,NA,68,Y,squamata
+Pogona vitticeps,XP_020663942,936,NCBI,NA,67,Y,squamata
+Polypterus senegalus,XP_039604706,953,NCBI,NA,56,Y,bony fish
+Pongo abelii,XP_024098136,909,NCBI,NA,55,Y,mammal
+Pristiophorus japonicus,XP_070741219,1009,NCBI,NA,119,Y,cartilaginous fish
+Pristis pectinata,XP_051879996,1066,NCBI,NA,119,Y,cartilaginous fish
+Protopterus annectens,XP_043918807,1019,NCBI,NA,56,Y,bony fish
+Pteronotus mesoamericanus,XP_054424911,909,NCBI,NA,55,Y,mammal
+Pteropus alecto,XP_015443675,921,NCBI,NA,55,Y,mammal
+Pteropus vampyrus,XP_039743590,921,NCBI,NA,55,Y,mammal
+Pyrgilauda ruficollis,XP_041333864,988,NCBI,NA,54,Y,archosauria
+Ramphastos sulfuratus,NXP80647,919,NCBI,NA,69,N,archosauria
+Rana temporaria,XP_040204173,976,NCBI,NA,58,Y,amphibian
+Ranitomeya imitator,XP_069584618,930,NCBI,NA,56,Y,amphibian
+Rattus norvegicus,NP_001003958,908,NCBI,NA,55,Y,mammal
+Rhea pennata,XP_062427245,935,NCBI,NA,56,Y,archosauria
+Rhineura floridana,XP_061481902,921,NCBI,NA,67,Y,squamata
+Rhinolophus ferrumequinum,XP_032981215,909,NCBI,NA,55,Y,mammal
+Rousettus aegyptiacus,XP_036081105,921,NCBI,NA,55,Y,mammal
+Saccopteryx bilineata,XP_066122693,921,NCBI,NA,55,Y,mammal
+Saccopteryx leptura,XP_066234811,921,NCBI,NA,55,Y,mammal
+Sagmatias obliquidens,XP_026969473,910,NCBI,NA,55,Y,mammal
+Sarcophilus harrisii,XP_031807298,918,NCBI,NA,56,Y,mammal
+Sceloporus undulatus,XP_042303109,1011,NCBI,NA,67,Y,squamata
+Scyliorhinus canicula,XP_038656020,1098,NCBI,NA,119,Y,cartilaginous fish
+Spea bombifrons,XP_053314716,941,NCBI,NA,56,Y,amphibian
+Sphaerodactylus townsendi,XP_048372140,918,NCBI,NA,67,Y,squamata
+Spheniscus humboldti,KAF1412636,906,NCBI,NA,56,N,archosauria
+Stegostoma tigrinum,XP_059501648,1094,NCBI,NA,142,Y,cartilaginous fish
+Struthio camelus,XP_068792708,934,NCBI,NA,56,Y,archosauria
+Sturnira hondurensis,XP_036922690,909,NCBI,NA,55,Y,mammal
+Suricata suricatta,XP_029794037,909,NCBI,NA,55,Y,mammal
+Sus scrofa,NP_001422158,909,NCBI,NA,55,Y,mammal
+Symphalangus syndactylus,XP_055110455,909,NCBI,NA,55,Y,mammal
+Platysternon megacephalum,TFK01538,950,NCBI,NA,67,N,turtle
+Thamnophis elegans,XP_032071248,919,NCBI,NA,67,Y,squamata
+Tiliqua scincoides,XP_066482866,919,NCBI,NA,67,Y,squamata
+Trachemys scripta elegans,XP_034622736,933,NCBI,NA,56,Y,turtle
+Trichechus manatus latirostris,XP_004377629,909,NCBI,NA,55,Y,mammal
+Tyto alba,XP_042659126,934,NCBI,NA,56,Y,archosauria
+Ursus arctos,XP_026375908,909,NCBI,NA,55,Y,mammal
+Varanus komodoensis,XP_044277046,918,NCBI,NA,67,Y,squamata
+Vicugna pacos,XP_006197229,912,NCBI,NA,55,Y,mammal
+Vidua chalybeata,XP_053792744,1010,NCBI,NA,56,Y,archosauria
+Vulpes vulpes,XP_025839681,909,NCBI,NA,55,Y,mammal
+Xenopus laevis,XP_041419590,940,NCBI,NA,56,Y,amphibian
+Zalophus californianus,XP_035584662,1004,NCBI,NA,55,Y,mammal
+Zootoca vivipara,XP_034966640,942,NCBI,NA,68,Y,squamata
+Zosterops borbonicus,TRZ10449,931,NCBI,NA,56,N,archosauria
